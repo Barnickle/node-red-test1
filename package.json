@@ -1,0 +1,12 @@
+{
+    "name": "node-red-test1",
+    "description": "node-red-test1",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_DT-TT-119086.json",
+            "credentialsFile": "flows_DT-TT-119086_cred.json"
+        }
+    }
+}
